@@ -2,7 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonsoo0625&count_bg=%23FF8A8A&title_bg=%23FF6262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonsoo0625&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonsoo0625)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Hyeonsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonsoo0625&show_icons=true&theme=radical)
