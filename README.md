@@ -1,4 +1,4 @@
-<div style="background-color: black">
+<div style='background-color: black'>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonsoo%20Kim&fontSize=90" />
 
