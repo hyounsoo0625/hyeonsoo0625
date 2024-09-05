@@ -1,3 +1,5 @@
+<div style="background-color: black">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonsoo%20Kim&fontSize=90" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonsoo0625&count_bg=%23FF8A8A&title_bg=%23FF6262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -42,3 +44,4 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
+</div>
