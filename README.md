@@ -38,6 +38,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonsoo0625&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 40%; height: 10%; margin-top: 20px;">
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
