@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
@@ -19,7 +21,6 @@ jobs:
         run: |
           git config user.name hyeonsoo0625
           git config user.email hyeonsoo02@gmail.com
-          git remote set-url origin https://github.com/hyeonsoo0625/hyeonsoo0625.git
           git add -A .
           git commit -m "generated"
-          git push https://$TOKEN@github.com/hyeonsoo0625/hyeonsoo0625.git
+          git push
