@@ -27,6 +27,9 @@
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeSCript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/keras-blue?style=for-the-badge&logo=keras&logoColor=white" />
 
 </div>
 
