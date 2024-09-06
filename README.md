@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeSCript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-brown?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=C&logoColor=white" />
+
 </div>
 
 <br>
