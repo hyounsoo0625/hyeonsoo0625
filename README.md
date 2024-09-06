@@ -30,7 +30,12 @@
 <br>
 
 # 🫵 Solved.AC
+
+<div align="center">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonsoo2002)](https://solved.ac/hyeonsoo2002/)
+
+</div>
 
 <br>
 <br>
