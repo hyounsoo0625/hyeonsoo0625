@@ -29,7 +29,7 @@
 <br>
 <br>
 
-# 🫵 Solved.AC
+# 🫵 Solved.ac
 
 <div align="center">
 
