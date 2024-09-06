@@ -1,4 +1,4 @@
-<div style='background-color: black'>
+<div style='background: black'>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonsoo%20Kim&fontSize=90" />
 
@@ -18,9 +18,13 @@
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
-
+<img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeSCript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
+<br>
+<br>
 
 # 📊 GitHub Stats:
 
