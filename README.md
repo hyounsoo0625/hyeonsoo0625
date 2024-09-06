@@ -29,6 +29,12 @@
 <br>
 <br>
 
+# 🫵 Solved.AC
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeonsoo2002)](https://solved.ac/hyeonsoo2002/)
+
+<br>
+<br>
+
 # 📊 GitHub Stats:
 
 
