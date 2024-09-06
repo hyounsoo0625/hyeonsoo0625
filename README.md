@@ -1,4 +1,4 @@
-<div style='background: black'>
+<div style="background-color: black;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonsoo%20Kim&fontSize=90" />
 
@@ -7,22 +7,28 @@
 <div>
 
 # 💻 Tech Stack:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-brown?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVA-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/NGINX-%23009639?style=for-the-badge&logo=Nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/MYSQL-%2300000f?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-fc6d26?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeSCript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-green?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-brown?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=C&logoColor=white" />
+
+</div>
 
 </div>
 
